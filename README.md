@@ -1,1 +1,3 @@
-# Misc-Burpsuite-
+# Misc-Burpsuite
+
+Various random BurpSuite extensions.
